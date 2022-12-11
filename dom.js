@@ -10,3 +10,7 @@ items[0].style.backgroundColor = '#80ffbf';
 items[1].style.backgroundColor = '#ff8080';
 items[2].style.backgroundColor = '#d2a679';
 items[3].style.backgroundColor = '#ffff33';
+
+var cla = document.getElementsByClassName('randomClass');
+cla.style.fontWeight = 'bold';
+cla.style.backgroundColor = '#80ffbf';
